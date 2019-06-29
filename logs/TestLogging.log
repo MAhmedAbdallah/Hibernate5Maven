@@ -1,6 +1,16 @@
-2019-06-29 11:16:07 INFO  Main:22 - 
+2019-06-29 11:30:09 INFO  Main:26 - Inside Try
+2019-06-29 11:30:09 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 11:30:10 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 11:32:51 INFO  Main:22 - 
 /------------------------------------------------------------------------------------------------------------------------------------------------------/
-2019-06-29 11:16:07 INFO  Main:26 - Inside Try
-2019-06-29 11:16:07 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
-2019-06-29 11:16:08 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
-2019-06-29 11:16:08 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 11:32:51 INFO  Main:26 - Inside Try
+2019-06-29 11:32:51 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 11:32:52 WARN  ConnectionProviderInitiator:272 - HHH000022: c3p0 properties were encountered, but the c3p0 provider class was not found on the classpath; these properties are going to be ignored.
+2019-06-29 11:32:52 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 11:34:03 INFO  Main:22 - 
+/------------------------------------------------------------------------------------------------------------------------------------------------------/
+2019-06-29 11:40:29 INFO  Main:22 - 
+/------------------------------------------------------------------------------------------------------------------------------------------------------/
+2019-06-29 11:40:29 INFO  Main:26 - Inside Try
+2019-06-29 11:40:29 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 11:40:30 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
