@@ -16,6 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
         final  Logger logger = Logger.getLogger(Main.class);
+        
 
         try {
              logger.info(
