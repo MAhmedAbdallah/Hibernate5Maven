@@ -1,0 +1,44 @@
+2019-06-29 10:55:28 INFO  Main:21 - Inside Try
+2019-06-29 10:55:28 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 10:55:28 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 10:55:28 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 10:55:30 ERROR Main:25 - org.hibernate.HibernateException: No CurrentSessionContext configured!
+2019-06-29 10:56:04 INFO  Main:21 - Inside Try
+2019-06-29 10:56:04 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 10:56:05 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 10:56:05 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 10:56:49 INFO  Main:21 - /-------------------------------------------------------------/
+2019-06-29 10:56:49 INFO  Main:22 - Inside Try
+2019-06-29 10:56:49 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 10:56:49 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 10:56:50 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 10:58:13 INFO  Main:21 - /-------------------------------------------------------------/
+2019-06-29 10:58:13 INFO  Main:23 - Inside Try
+2019-06-29 10:58:13 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 10:58:13 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 10:58:14 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 10:59:28 INFO  Main:21 - /-----------------
+--------------------------------------------/
+2019-06-29 10:59:28 INFO  Main:25 - Inside Try
+2019-06-29 10:59:28 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 10:59:28 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 10:59:29 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 10:59:59 INFO  Main:21 - 
+/--------------------------------------------------------------------------------------------------------------------------/
+2019-06-29 10:59:59 INFO  Main:25 - Inside Try
+2019-06-29 10:59:59 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 11:00:00 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 11:00:00 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 11:01:01 INFO  Main:21 - 
+/------------------------------------------------------------------------------------------------------------------------------------------------------/
+2019-06-29 11:01:01 INFO  Main:25 - Inside Try
+2019-06-29 11:01:01 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 11:01:01 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 11:01:02 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 11:01:27 INFO  Main:21 - 
+/------------------------------------------------------------------------------------------------------------------------------------------------------/
+2019-06-29 11:01:27 INFO  Main:25 - Inside Try
+2019-06-29 11:01:27 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 11:01:28 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-29 11:01:28 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 11:01:29 ERROR Main:29 - Errored Occured org.hibernate.HibernateException: No CurrentSessionContext configured!
