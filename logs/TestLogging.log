@@ -332,3 +332,41 @@
 2019-06-30 15:33:53 INFO  Main:52 - Session Factory Closed
 2019-06-30 15:33:53 INFO  Main:53 - 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:04:19 INFO  Main:30 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:04:19 INFO  Main:34 - Inside Try
+2019-06-30 16:04:19 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 16:04:20 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 16:04:21 WARN  deprecation:1874 - HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2019-06-30 16:04:21 INFO  Main:63 - Current Session Closed
+2019-06-30 16:04:21 INFO  Main:66 - Session Factory Closed
+2019-06-30 16:04:21 INFO  Main:67 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:04:40 INFO  Main:30 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:04:40 INFO  Main:34 - Inside Try
+2019-06-30 16:04:40 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 16:04:41 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 16:04:43 WARN  deprecation:1874 - HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2019-06-30 16:04:43 INFO  Main:63 - Current Session Closed
+2019-06-30 16:04:43 INFO  Main:66 - Session Factory Closed
+2019-06-30 16:04:43 INFO  Main:67 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:20:15 INFO  Main:30 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:20:15 INFO  Main:34 - Inside Try
+2019-06-30 16:20:15 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 16:20:16 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 16:20:18 INFO  Main:57 - Current Session Closed
+2019-06-30 16:20:18 INFO  Main:60 - Session Factory Closed
+2019-06-30 16:20:18 INFO  Main:61 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:21:34 INFO  Main:30 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 16:21:34 INFO  Main:34 - Inside Try
+2019-06-30 16:21:34 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 16:21:35 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 16:21:36 INFO  Main:57 - Current Session Closed
+2019-06-30 16:21:36 INFO  Main:60 - Session Factory Closed
+2019-06-30 16:21:36 INFO  Main:61 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
