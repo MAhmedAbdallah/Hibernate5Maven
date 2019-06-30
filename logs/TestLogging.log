@@ -1,16 +1,334 @@
-2019-06-29 11:30:09 INFO  Main:26 - Inside Try
-2019-06-29 11:30:09 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
-2019-06-29 11:30:10 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
-2019-06-29 11:32:51 INFO  Main:22 - 
-/------------------------------------------------------------------------------------------------------------------------------------------------------/
-2019-06-29 11:32:51 INFO  Main:26 - Inside Try
-2019-06-29 11:32:51 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
-2019-06-29 11:32:52 WARN  ConnectionProviderInitiator:272 - HHH000022: c3p0 properties were encountered, but the c3p0 provider class was not found on the classpath; these properties are going to be ignored.
-2019-06-29 11:32:52 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
-2019-06-29 11:34:03 INFO  Main:22 - 
-/------------------------------------------------------------------------------------------------------------------------------------------------------/
-2019-06-29 11:40:29 INFO  Main:22 - 
-/------------------------------------------------------------------------------------------------------------------------------------------------------/
-2019-06-29 11:40:29 INFO  Main:26 - Inside Try
-2019-06-29 11:40:29 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
-2019-06-29 11:40:30 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 13:06:48 INFO  Main:22 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-29 13:06:48 INFO  Main:26 - Inside Try
+2019-06-29 13:06:48 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-29 13:06:49 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-29 13:06:50 INFO  Main:33 - Current Session Closed
+2019-06-29 13:06:50 INFO  Main:35 - Session Factory Closed
+2019-06-29 13:06:50 INFO  Main:36 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:34:53 INFO  Main:25 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:34:53 INFO  Main:29 - Inside Try
+2019-06-30 13:34:54 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:34:54 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:34:56 INFO  Main:41 - Current Session Closed
+2019-06-30 13:34:56 INFO  Main:43 - Session Factory Closed
+2019-06-30 13:34:56 INFO  Main:44 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:39:30 INFO  Main:25 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:39:30 INFO  Main:29 - Inside Try
+2019-06-30 13:39:30 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:39:31 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:39:32 INFO  Main:41 - Current Session Closed
+2019-06-30 13:39:32 INFO  Main:43 - Session Factory Closed
+2019-06-30 13:39:32 INFO  Main:44 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:40:28 INFO  Main:25 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:40:28 INFO  Main:29 - Inside Try
+2019-06-30 13:40:28 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:40:29 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:40:30 INFO  Main:41 - Current Session Closed
+2019-06-30 13:40:30 INFO  Main:43 - Session Factory Closed
+2019-06-30 13:40:30 INFO  Main:44 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:42:55 INFO  Main:25 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:42:55 INFO  Main:29 - Inside Try
+2019-06-30 13:42:55 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:42:55 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:42:57 INFO  Main:41 - Current Session Closed
+2019-06-30 13:42:57 INFO  Main:43 - Session Factory Closed
+2019-06-30 13:42:57 INFO  Main:44 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:47:37 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:47:37 INFO  Main:31 - Inside Try
+2019-06-30 13:47:37 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:47:38 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:47:40 INFO  Main:47 - Current Session Closed
+2019-06-30 13:47:40 INFO  Main:49 - Session Factory Closed
+2019-06-30 13:47:40 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:49:29 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:49:29 INFO  Main:31 - Inside Try
+2019-06-30 13:49:29 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:49:30 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:49:31 INFO  Main:47 - Current Session Closed
+2019-06-30 13:49:31 INFO  Main:49 - Session Factory Closed
+2019-06-30 13:49:31 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:51:35 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:51:35 INFO  Main:31 - Inside Try
+2019-06-30 13:51:35 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:51:36 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:51:37 INFO  Main:47 - Current Session Closed
+2019-06-30 13:51:37 INFO  Main:49 - Session Factory Closed
+2019-06-30 13:51:37 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:58:44 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 13:58:44 INFO  Main:31 - Inside Try
+2019-06-30 13:58:44 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 13:58:46 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 13:58:48 INFO  Main:47 - Current Session Closed
+2019-06-30 13:58:48 INFO  Main:49 - Session Factory Closed
+2019-06-30 13:58:48 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:00:41 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:00:41 INFO  Main:31 - Inside Try
+2019-06-30 14:00:41 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:00:43 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:00:46 INFO  Main:47 - Current Session Closed
+2019-06-30 14:00:46 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:00:46 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:06:35 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:06:35 INFO  Main:31 - Inside Try
+2019-06-30 14:06:35 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:06:36 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:06:38 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:06:41 INFO  Main:47 - Current Session Closed
+2019-06-30 14:06:41 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:06:41 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:07:30 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:07:30 INFO  Main:31 - Inside Try
+2019-06-30 14:07:30 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:07:32 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:07:33 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:07:38 INFO  Main:47 - Current Session Closed
+2019-06-30 14:07:38 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:07:38 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:22:25 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:22:25 INFO  Main:31 - Inside Try
+2019-06-30 14:22:25 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:24:29 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:24:29 INFO  Main:31 - Inside Try
+2019-06-30 14:24:29 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:24:29 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:24:30 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:24:30 WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : null
+2019-06-30 14:24:31 WARN  SqlExceptionHelper:137 - SQL Error: 1045, SQLState: 28000
+2019-06-30 14:24:31 ERROR SqlExceptionHelper:142 - Access denied for user ''@'localhost' (using password: NO)
+2019-06-30 14:24:31 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:24:31 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:24:31 WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : null
+2019-06-30 14:24:31 WARN  SqlExceptionHelper:137 - SQL Error: 1045, SQLState: 28000
+2019-06-30 14:24:31 ERROR SqlExceptionHelper:142 - Access denied for user ''@'localhost' (using password: NO)
+2019-06-30 14:25:03 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:25:03 INFO  Main:31 - Inside Try
+2019-06-30 14:25:03 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:25:03 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:25:04 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:25:06 INFO  Main:47 - Current Session Closed
+2019-06-30 14:25:06 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:25:06 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:25:25 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:25:25 INFO  Main:31 - Inside Try
+2019-06-30 14:25:25 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:25:26 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:25:26 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:25:27 INFO  Main:47 - Current Session Closed
+2019-06-30 14:25:27 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:25:27 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:31:15 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:31:15 INFO  Main:31 - Inside Try
+2019-06-30 14:31:15 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:31:16 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:31:17 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:31:19 INFO  Main:47 - Current Session Closed
+2019-06-30 14:31:19 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:31:19 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:59:40 INFO  Main:27 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 14:59:40 INFO  Main:31 - Inside Try
+2019-06-30 14:59:40 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 14:59:40 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 14:59:41 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 14:59:42 INFO  Main:47 - Current Session Closed
+2019-06-30 14:59:42 INFO  Main:49 - Session Factory Closed
+2019-06-30 14:59:42 INFO  Main:50 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:03:51 INFO  Main:28 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:03:51 INFO  Main:32 - Inside Try
+2019-06-30 15:03:51 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:03:52 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:03:52 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:03:53 INFO  Main:48 - Current Session Closed
+2019-06-30 15:03:53 INFO  Main:50 - Session Factory Closed
+2019-06-30 15:03:53 INFO  Main:51 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:09:18 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:09:18 INFO  Main:33 - Inside Try
+2019-06-30 15:09:18 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:09:18 ERROR Main:46 - Errored Occured org.hibernate.internal.util.config.ConfigurationException: Could not locate cfg.xml resource [hibernate.cfg.xml]
+2019-06-30 15:09:57 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:09:57 INFO  Main:33 - Inside Try
+2019-06-30 15:09:57 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:09:57 ERROR Main:46 - Errored Occured org.hibernate.internal.util.config.ConfigurationException: Specified cfg.xml file [/Volumes/Data/Hands on/HibernateMaven/src/main/java/hibernate/hibernatemaven/hibernate.cfg.xml] does not exist
+2019-06-30 15:10:58 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:10:58 INFO  Main:33 - Inside Try
+2019-06-30 15:10:58 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:10:58 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:10:58 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:11:00 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:11:00 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:11:01 INFO  Main:49 - Current Session Closed
+2019-06-30 15:11:01 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:11:01 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:11:01 INFO  Main:51 - Session Factory Closed
+2019-06-30 15:11:01 INFO  Main:52 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:12:41 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:12:41 INFO  Main:33 - Inside Try
+2019-06-30 15:12:41 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:12:41 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:12:42 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:12:43 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:12:43 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:12:43 INFO  Main:49 - Current Session Closed
+2019-06-30 15:12:43 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:12:43 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:12:43 INFO  Main:51 - Session Factory Closed
+2019-06-30 15:12:43 INFO  Main:52 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:13:25 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:13:25 INFO  Main:33 - Inside Try
+2019-06-30 15:13:25 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:13:25 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:13:26 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:13:26 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-06-30 15:13:27 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:14:02 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:14:02 INFO  Main:33 - Inside Try
+2019-06-30 15:14:02 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:14:03 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:14:05 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:14:05 INFO  Main:49 - Current Session Closed
+2019-06-30 15:14:05 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:14:05 INFO  Main:51 - Session Factory Closed
+2019-06-30 15:14:05 INFO  Main:52 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:15:46 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:15:46 INFO  Main:33 - Inside Try
+2019-06-30 15:15:46 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:15:47 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:15:49 INFO  Main:49 - Current Session Closed
+2019-06-30 15:15:49 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:15:49 INFO  Main:51 - Session Factory Closed
+2019-06-30 15:15:49 INFO  Main:52 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:16:52 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:16:52 INFO  Main:33 - Inside Try
+2019-06-30 15:16:52 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:16:53 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:16:55 INFO  Main:49 - Current Session Closed
+2019-06-30 15:16:55 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:16:55 INFO  Main:51 - Session Factory Closed
+2019-06-30 15:16:55 INFO  Main:52 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:19:15 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:19:15 INFO  Main:33 - Inside Try
+2019-06-30 15:19:15 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:19:16 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:19:17 INFO  Main:49 - Current Session Closed
+2019-06-30 15:19:17 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:19:18 INFO  Main:51 - Session Factory Closed
+2019-06-30 15:19:18 INFO  Main:52 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:21:10 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:21:10 INFO  Main:33 - Inside Try
+2019-06-30 15:21:10 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:21:10 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:21:12 INFO  Main:49 - Current Session Closed
+2019-06-30 15:21:12 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:21:12 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:21:12 INFO  Main:52 - Session Factory Closed
+2019-06-30 15:21:12 INFO  Main:53 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:24:23 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:24:23 INFO  Main:33 - Inside Try
+2019-06-30 15:24:23 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:24:53 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:24:53 INFO  Main:33 - Inside Try
+2019-06-30 15:24:54 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:24:54 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:24:55 INFO  Main:49 - Current Session Closed
+2019-06-30 15:24:55 INFO  Main:52 - Session Factory Closed
+2019-06-30 15:24:55 INFO  Main:53 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:25:32 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:25:32 INFO  Main:33 - Inside Try
+2019-06-30 15:25:32 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:25:33 WARN  ConnectionProviderInitiator:208 - HHH000181: No appropriate connection provider encountered, assuming application will be supplying connections
+2019-06-30 15:25:33 WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : The application must supply JDBC connections
+2019-06-30 15:28:33 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:28:33 INFO  Main:33 - Inside Try
+2019-06-30 15:28:33 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:29:04 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:29:04 INFO  Main:33 - Inside Try
+2019-06-30 15:29:04 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:30:48 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:30:48 INFO  Main:33 - Inside Try
+2019-06-30 15:30:48 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:31:57 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:31:57 INFO  Main:33 - Inside Try
+2019-06-30 15:31:57 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:31:58 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:32:00 INFO  Main:49 - Current Session Closed
+2019-06-30 15:32:00 INFO  Main:52 - Session Factory Closed
+2019-06-30 15:32:00 INFO  Main:53 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:32:33 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:32:33 INFO  Main:33 - Inside Try
+2019-06-30 15:32:33 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:32:34 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:32:35 INFO  Main:49 - Current Session Closed
+2019-06-30 15:32:35 INFO  Main:52 - Session Factory Closed
+2019-06-30 15:32:35 INFO  Main:53 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:33:51 INFO  Main:29 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2019-06-30 15:33:51 INFO  Main:33 - Inside Try
+2019-06-30 15:33:51 DEBUG logging:110 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-06-30 15:33:52 WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-30 15:33:53 INFO  Main:49 - Current Session Closed
+2019-06-30 15:33:53 INFO  Main:52 - Session Factory Closed
+2019-06-30 15:33:53 INFO  Main:53 - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
