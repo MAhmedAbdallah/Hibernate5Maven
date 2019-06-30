@@ -14,6 +14,7 @@ import javax.persistence.criteria.Root;
 import org.apache.log4j.Logger;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
+import org.hibernate.criterion.Restrictions;
 
 /**
  *
@@ -33,21 +34,24 @@ public class Main {
 
             session = HibernateUtil.getSessionFactory().openSession();
 
-            System.out.println(session.toString());
-
-            session.getTransaction();
-
-            CriteriaBuilder cb = session.getCriteriaBuilder();
-
-            CriteriaQuery<Person> cq = cb.createQuery(Person.class);
-
-            Root<Person> root = cq.from(Person.class);
-            cq.orderBy(cb.desc(root.get("id")));
-            List<Person> results = session.createQuery(cq).getResultList();
-
-            for (Person x : results) {
-                System.out.println(x.getName());
-            }
+//            System.out.println(session.toString());
+//
+//            session.getTransaction();
+//
+//            CriteriaBuilder cb = session.getCriteriaBuilder();
+//
+//            CriteriaQuery<Person> cq = cb.createQuery(Person.class);
+//
+//            Root<Person> root = cq.from(Person.class);
+//            cq.orderBy(cb.desc(root.get("id")));
+//            List<Person> results = session.createQuery(cq).getResultList();
+//
+//            for (Person x : results) {
+//                System.out.println(x.getName());
+//            }
+Person x = (Person)  session.createCriteria(Person.class).se.addOrder(org.hibernate.criterion.Order.desc("id")).list().get(0);
+            System.out.println(x.getName()
+                  );
         } catch (HibernateException e) {
             logger.error("Errored Occured " + e.toString());
         } finally {
