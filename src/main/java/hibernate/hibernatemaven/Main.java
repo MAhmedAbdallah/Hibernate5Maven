@@ -49,7 +49,7 @@ public class Main {
 //            for (Person x : results) {
 //                System.out.println(x.getName());
 //            }
-Person x = (Person)  session.createCriteria(Person.class).se.addOrder(org.hibernate.criterion.Order.desc("id")).list().get(0);
+Person x = (Person)  session.createCriteria(Person.class).addOrder(org.hibernate.criterion.Order.desc("id")).list().get(0);
             System.out.println(x.getName()
                   );
         } catch (HibernateException e) {
