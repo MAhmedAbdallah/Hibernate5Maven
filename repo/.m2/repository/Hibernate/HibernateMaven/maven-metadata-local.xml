@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>Hibernate</groupId>
+  <artifactId>HibernateMaven</artifactId>
+  <versioning>
+    <release>SnapShot</release>
+    <versions>
+      <version>SnapShot</version>
+    </versions>
+    <lastUpdated>20190706104957</lastUpdated>
+  </versioning>
+</metadata>

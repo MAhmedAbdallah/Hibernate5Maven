@@ -7,6 +7,7 @@ package hibernate.hibernatemaven;
 
 import java.io.File;
 import java.util.Properties;
+import model.Person;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
@@ -30,39 +31,106 @@ public class HibernateUtil {
             try {
 
          //       Configuration configuration = new Configuration().configure(new File("src/main/resources/hibernate.cfg.xml"));
-          //      Configuration configuration = new Configuration();
+                Configuration configuration = new Configuration();
 
-                // Hibernate settings equivalent to hibernate.cfg.xml's properties
+          //       Hibernate settings equivalent to hibernate.cfg.xml's properties
 
-  //              Properties settings = new Properties();
+                Properties settings = new Properties();
                 
-//
-//                settings.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
-//
-//                settings.put(Environment.URL, "jdbc:mysql://localhost:3306/maven?zeroDateTimeBehavior=convertToNull");
-//
+
+                settings.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
+
+                settings.put(Environment.URL, "jdbc:mysql://localhost:3306/maven?zeroDateTimeBehavior=convertToNull");
+
+                settings.put(Environment.USER, "root");
+
+                settings.put(Environment.PASS, "159357mohamed");
+
+                settings.put(Environment.DIALECT, "org.hibernate.dialect.MySQL5Dialect");
+
+                settings.put(Environment.SHOW_SQL, "true");
+
+                settings.put(Environment.CURRENT_SESSION_CONTEXT_CLASS, "thread");
+
+                settings.put(Environment.HBM2DDL_AUTO, "validate");
+               
+
+                configuration.setProperties(settings);
+
+    ServiceRegistry serviceRegistry = new StandardServiceRegistryBuilder()
+                    .applySettings(configuration.getProperties()).build();
+             
+                sessionFactory = configuration.addAnnotatedClass(Person.class).
+                        buildSessionFactory(serviceRegistry);
+
+                
+                
+                
+//                
+//                
+//                
+//                
+//                
+//                
+//                
+//                                Configuration configuration = new Configuration();
+//                // Hibernate settings equivalent to hibernate.cfg.xml's properties
+//                Properties settings = new Properties();
+//                settings.put(Environment.DRIVER, "com.mysql.cj.jdbc.Driver");
+//                settings.put(Environment.URL, "jdbc:mysql://localhost:3306/hibernate_db?useSSL=false");
 //                settings.put(Environment.USER, "root");
-//
-//                settings.put(Environment.PASS, "159357mohamed");
-//
+//                settings.put(Environment.PASS, "root");
 //                settings.put(Environment.DIALECT, "org.hibernate.dialect.MySQL5Dialect");
-//
 //                settings.put(Environment.SHOW_SQL, "true");
-//
 //                settings.put(Environment.CURRENT_SESSION_CONTEXT_CLASS, "thread");
-//
-//                settings.put(Environment.HBM2DDL_AUTO, "validate");
-//               
+//                settings.put(Environment.HBM2DDL_AUTO, "create-drop");
+//                configuration.setProperties(settings);
+//                configuration.addAnnotatedClass(Student.class);
+//                ServiceRegistry serviceRegistry = new StandardServiceRegistryBuilder()
+//                    .applySettings(configuration.getProperties()).build();
+//                sessionFactory = configuration.buildSessionFactory(serviceRegistry);
+//                
+//                
+//                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
 
-  //              configuration.setProperties(settings);
 
+/*
+   ServiceRegistry serviceRegistry = new StandardServiceRegistryBuilder().configure(new File("src/main/java/hibernate/hibernatemaven/hibernate.cfg.xml")).build();
 
-                ServiceRegistry serviceRegistry = new StandardServiceRegistryBuilder().configure(new File("src/main/java/hibernate.cfg.xml")).build();
-
-//                sessionFactory = configuration.//addAnnotatedClass(Person.class).
-//                        buildSessionFactory(serviceRegistry);
                 sessionFactory = new MetadataSources(serviceRegistry).buildMetadata().buildSessionFactory();
-            } catch (Exception e) {
+        */    } catch (Exception e) {
 
                 e.printStackTrace();
 
